@@ -14,13 +14,11 @@ Backend Engineer based in Indonesia
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ---
 
-Steadily growing and recently into LLM application patterns (RAG, tool use, evals) — have a private prod deployment
+Recently into LLM application patterns (RAG, tool use, evals) — have a private prod deployment
 
 ### 🧠 [Dump Your Thoughts](https://app.dumpyourthoughts.com) *(live)*  
 write fast, think later. AI turns raw brain dumps into organized journal entries  
 `Node.js · TypeScript · PostgreSQL · LLM via Ollama`
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ucencode&theme=github-compact&hide_border=true)
 
 ---
 
