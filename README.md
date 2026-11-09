@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmad Husein Hambali
 
-Backend Engineer based in Indonesia
+Software Engineer based in Indonesia
 
 
 ![Open to Work](https://img.shields.io/badge/open%20to-remote%20work-green?style=flat)
